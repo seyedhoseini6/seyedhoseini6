@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @seyed
-- 👀 I’m interested in prigramming
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
